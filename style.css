@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(214, 185, 152);
+    color: rgb(157, 98, 107);
+  }
+  h1 {
+    font-family: Yatra One;
+  
+  }
+  p {
+    font-family: Yatra One;
+    font-size: 19px;
+  }
+  h1 {
+    font-size: 36px;
+    font-family: "Syne Mono", monospace;
+    text-align: center;
+  }
+  img {
+      margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 450px;
+    display: block;
+height: 90px;
+  }
+  h2 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  
+  }
+  nav ul li{
+  display: inline;
+  }
+  li{
+    padding: 50px;
+    margin-left: 150px;
+  }
+  #first{
+      text-align: center;
+  }
+  h3{
+      text-align: center;
+      color: rgb(0, 0, 0);
+      border: rgb(255, 255, 255) dashed 4px;
+      width: 300px;
+      margin-left: 400px;
+      margin-top: 20px;
+  }
+  h4{
+    color: rgb(0, 0, 0);
+    border: rgb(255, 255, 255)dashed 5px;
+    width: 300px;
+    margin-left: 400px;
+ }
+
